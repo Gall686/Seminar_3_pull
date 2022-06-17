@@ -2,4 +2,4 @@
 
 # ИЗИ
 
-## It`s massage from my friends
+## It`s message from my friends
